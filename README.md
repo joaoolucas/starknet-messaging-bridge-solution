@@ -20,4 +20,4 @@ Second transaction: [0x7842dae7e4defa09ade20b7c97baeb6dce96eca54edfd3f2e13e69fd1
 
 Contract deployed on L1: [0xAEe318D1703Ff310C365f60955C91897c228C964](https://goerli.etherscan.io/address/0xAEe318D1703Ff310C365f60955C91897c228C964)
 
-Message sending: [0xb119bb4d15dd76426b41e40b99e154e0037514fcc817ae740d66fbf91f754e1f](https://goerli.etherscan.io/tx/0xb119bb4d15dd76426b41e40b99e154e0037514fcc817ae740d66fbf91f754e1f)
+Message sending: [0xca14e77123e677047e5e4239a064a58493ad50b2bcca8795d4b79dd8956d8858](https://goerli.etherscan.io/tx/0xca14e77123e677047e5e4239a064a58493ad50b2bcca8795d4b79dd8956d8858)
