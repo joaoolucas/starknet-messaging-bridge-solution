@@ -21,3 +21,13 @@ Second transaction: [0x7842dae7e4defa09ade20b7c97baeb6dce96eca54edfd3f2e13e69fd1
 Contract deployed on L1: [0xAEe318D1703Ff310C365f60955C91897c228C964](https://goerli.etherscan.io/address/0xAEe318D1703Ff310C365f60955C91897c228C964)
 
 Message sending: [0xca14e77123e677047e5e4239a064a58493ad50b2bcca8795d4b79dd8956d8858](https://goerli.etherscan.io/tx/0xca14e77123e677047e5e4239a064a58493ad50b2bcca8795d4b79dd8956d8858)
+
+[Message arriving](https://testnet.starkscan.co/eth-tx/0xca14e77123e677047e5e4239a064a58493ad50b2bcca8795d4b79dd8956d8858#messagelogs)
+
+## Exercise 3
+
+Contract deployed on L1: [0xccfDB37022772505F70718332d04e2C01F057800](https://goerli.etherscan.io/address/0xccfDB37022772505F70718332d04e2C01F057800)
+
+First transaction: [0x37e97791bceaaa79e563b58d16b7dd0d7a5dee9dfecee4701abe5f40b390f97](https://goerli.voyager.online/tx/0x37e97791bceaaa79e563b58d16b7dd0d7a5dee9dfecee4701abe5f40b390f97)
+
+
